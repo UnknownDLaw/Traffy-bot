@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am The official bot of The 'Blood✨'","👍","❤️","THANKS 🌇"];
+const statusMessages = ["best community" , "Anime community"];
 
 
 let currentIndex = 0;
