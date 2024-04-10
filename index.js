@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
   res.sendFile(imagePath);
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
+  console.log(`🔗 Listening to Worst Boy: http://localhost:${port}`);
   console.log(`🔗 Replit URL: https://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co`);
 });
 
