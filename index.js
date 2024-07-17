@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Join Anime Community Now ⚜️ " , "Good and active Owner 👑 " , "Great staff 🪖 " , "1000+ members 🏟️" , "Fun activities 🕹️🎮🕹️ " ,  "best community 🏯 " , "Anime community 🎇"];
+const statusMessages = ["Dead but my soul lives in this bot" , "Watching over y'all" ];
 
 
 let currentIndex = 0;
